@@ -1,0 +1,8 @@
+build
+out/linux
+*~
+CMakeLists.txt.user
+.svn
+data_km.iv
+data_mv.iv
+*.asv
